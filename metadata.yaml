@@ -1,11 +1,14 @@
 _repo: Vitruvii-De-architectura-libri-decem_51812
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Cetius Faventinus, Marcus
     alias: Faventinus, Marcus Cetius
     gutenberg_agent_id: '49148'
     url: http://www.gutenberg.org/2009/agents/49148
+covers:
+- cover_type: archival
+  image_path: 51812-h/images/cover.jpg
 creator:
   author:
     agent_name: Vitruvius Pollio
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '46564'
     url: http://www.gutenberg.org/2009/agents/46564
 description: '"M. Ceti Faventini Liber artis architectonicae": p. 283-304'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51812#Vitruvii-De-architectura-libri-decem
 gutenberg_issued: '2016-04-20'
 gutenberg_type: Text
 identifiers:
